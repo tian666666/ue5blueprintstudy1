@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/5UEAndUnityAnd3D/20230109UEStudyProjects/BluePrintStudy/Projects/BluePrintStudy/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/5UEAndUnityAnd3D/20230109UEStudyProjects/BluePrintStudy/Projects/BluePrintStudy/Content/LearnMap.umap",
+				"E:/5UEAndUnityAnd3D/20230109UEStudyProjects/BluePrintStudy/Projects/BluePrintStudy/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/5UEAndUnityAnd3D/20230109UEStudyProjects/BluePrintStudy/Projects/BluePrintStudy/Content/BP/BP_Cube.uasset",
+				"E:/5UEAndUnityAnd3D/20230109UEStudyProjects/BluePrintStudy/Projects/BluePrintStudy/Content/BP/BP_Cube_Child.uasset",
+				"E:/5UEAndUnityAnd3D/20230109UEStudyProjects/BluePrintStudy/Projects/BluePrintStudy/Content/NewMap.umap"
+			]
+		}
+	]
+}
